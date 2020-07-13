@@ -1,37 +1,48 @@
-## Welcome to GitHub Pages
+# Fictional Design Company website - side project
 
-You can use the [editor on GitHub](https://github.com/cristianCeamatu/htmlcss/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+> The project has Home, About and Services pages of a fictional design company.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![screenshot](./app-screenshot-full.png)
 
-### Markdown
+> I build the project after watching this [youtube tutorial](https://www.youtube.com/watch?v=Wm6CUkswsNw).
+> The website is mobile responsive.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Built With
 
-```markdown
-Syntax highlighted code block
+- HTML,
+- CSS,
+- JS
 
-# Header 1
-## Header 2
-### Header 3
+## Live Demo
 
-- Bulleted
-- List
+[Live Demo Link](https://cristianceamatu.github.io/side-projects-fictional-design-company/)
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+To get a local copy up and running follow these simple example steps.
 
-[Link](url) and ![Image](src)
-```
+### Setup
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Clone the project locally.
 
-### Jekyll Themes
+### Deployment
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cristianCeamatu/htmlcss/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Install and run a live server plugin on you IDE/Text editor and run it from the root directory.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Authors
+
+👤 **Cristian Viorel Ceamatu**
+
+- Github: [@githubhandle](https://github.com/cristianCeamatu)
+- Twitter: [@twitterhandle](https://twitter.com/CeamatuV)
+- Linkedin: [linkedin](https://www.linkedin.com/in/ceamatu-cristian-viorel-7a5469136/)
+
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+
+## 📝 License
+
+This project is [MIT](lic.url) licensed.
